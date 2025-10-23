@@ -8,7 +8,7 @@ fun main() {
 
     // Выводим заголовок каталога
     println("=== КАТАЛОГ МАГАЗИНА ИГРУШЕК ===")
-    println()
+    println("иди нахуй долбоеб уволен")
 
     // Внешний цикл проходит по категориям
     for ((categoryName, itemsList) in catalog) {
